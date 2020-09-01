@@ -1,5 +1,5 @@
 {
-  "name": "raynost-browserify",
+  "name": "raynos-browserify",
   "version": "16.5.2-raynos-1",
   "description": "browser-side require() the node way",
   "main": "index.js",
